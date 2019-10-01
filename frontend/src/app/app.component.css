@@ -1,0 +1,28 @@
+.body{
+    width: 100%;
+    height: 100%;
+}
+
+#header{
+    height: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    color: darkolivegreen;
+}
+
+#content{
+    width: 100%;
+    height: 100%;
+}
+
+#footer{
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 45%;
+    padding-bottom: 40px;
+    background: darkolivegreen;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
